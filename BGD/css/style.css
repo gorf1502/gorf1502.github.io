@@ -1,0 +1,151 @@
+* {
+    max-width: 96%;
+    margin: 0 auto;
+}
+nav {
+    border-bottom: 1px solid;
+    padding-bottom: 2%;
+}
+
+h1 {
+    font-family: orbitron, sans-serif;
+    font-size: 7em;
+    font-weight: 100;
+    letter-spacing: 15px;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+h2 {
+    font-family: orbitron, sans-serif;
+    font-weight: 100;
+    font-size: 2em;
+    float: right;
+    margin-top: -8%;
+    margin-right: 6%;
+}
+.main-nav {
+    width: 100%;
+    margin-left: 27%;
+}
+.main-nav li {
+    list-style: none;
+    font-family: orbitron, sans-serif;
+    font-size: 1.5em;
+    font-weight: 100;
+    display: inline-block;
+    text-align: center;
+    padding: 1%;
+}
+.images li{
+    list-style: none;
+    width: 34%;
+    display: inline-block;
+    margin-top: 10%;
+    margin: 2% 0 0 10%;
+}
+.images-1 li {
+    list-style: none;
+    width: 34%;
+    display: inline-block;
+    margin: 2% 0 0 10%
+}
+.arrow {
+    width: 10%;
+    opacity: .7;
+    margin-left: 45.5%;
+    padding-top: 3%;
+}
+
+.footer {
+    font-family: orbitron, sans-serif;
+    font-size: .9em;
+    font-weight: 100;
+    padding-right: 32%;
+}
+
+/*----------ABOUT-----------*/
+
+.about {
+    margin-top: 2%;
+    padding-bottom: 2%;
+    border-bottom: 1px solid;
+}
+
+h3 {
+    font-family: quicksand, sans-serif;
+    text-align: center;
+    font-size: 3em;
+    padding-top: 3%;
+}
+.bio {
+    width: 40%;
+    line-height: 1.5;
+    font-family: quicksand, sans-serif;
+    padding-top: 3%
+}
+.dan {
+    float: right;
+    padding-top: 3%;
+}
+.dave {
+    float: left;
+    padding-top: 3%;
+}
+.about-arrow {
+    width: 10%;
+    opacity: .7;
+    margin-left: 45.5%;
+    padding-top: 15%;
+}
+
+/*----------PERFORMANCE-----------*/
+
+.ds {
+    float: right;
+}
+.dg {
+    float: left;
+}
+.performance p {
+    font-family: quicksand, sans-serif;
+    text-align: center;
+    width: 60%;
+    padding-top: 2%;
+    padding-bottom: 2%
+}
+.performance-list li {
+    list-style: none;
+    font-family: quicksand, sans-serif;
+    width: 20%;
+    line-height: 2;
+    margin-left: 42%;
+}
+.performance {
+    border-bottom: 1px solid;
+    padding-bottom: 2%;
+}
+.performance-arrow {
+    width: 10%;
+    opacity: .7;
+    margin-left: 24%;
+    padding-top: 22%;
+}
+
+/*----------CONTACT-----------*/
+.buffalo {
+    width: 50%;
+    margin-top: 8%;
+    border-radius: 10px;
+}
+.contact p {
+    float: right;
+    font-family: quicksand, sans-serif;
+    margin-top: 10%;
+    margin-right: 7%;
+}
+.contact {
+    border-bottom: 1px solid;
+    padding-bottom: 16%;
+}
+
